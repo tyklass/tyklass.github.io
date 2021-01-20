@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: "Day 12: Having a Plan"
---
+---
 Alright, another early start (5:15AM) and another 4hrs of studying and practice programs complete. Got into generators and iterators today and then stared searching out practice interview problems to start playing around with to get my brain thinking programming style.
 
 Had a good chat with Agi, I think its awesome that I have this goal in mind for what I want to get out of my MSc degree and I'm really happy to be starting down this path. I am loving coding a lot. I get into flow state when I'm coding and it really seems like the time is flying by. You have to be really creative and logical which is super fun! I am enjoying the learning process and am excited to continue getting better so I can start tackling more advanced problems.

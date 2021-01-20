@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: "Day 7: Beliefs"
---
+---
 Completed my first milestone project, the Tic Tac Toe board and pushed it (? Still don’t understand gits lol) to my new github repo. I did it differently than the solutions did it, still works fine but I’m wondering if my way isn’t the cleanest. I’d really like to have clean code, which I know probably comes with experience as you learn more and more different ways of doing the same thing but I also want to make sure that I’m learning the best way right off the bat. Anyways, on to object oriented programming!
 
 Not much else to report on, woke up at 5am this morning and did 3.5hrs of Python. I am excited for the idea of being able to wake up like this during my masters. I can’t even imagine, if I did 3.5 hrs of homework every morning, I’d get straight A’s and have most of my evenings and weekends off! Yes please. 
