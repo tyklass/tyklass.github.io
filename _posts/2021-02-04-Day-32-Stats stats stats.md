@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Day 32: Stats, stats, stats"
+---
+
+Getting deeper in to Intro to Statistical Learning and enjoying it quite a bit. I'm still feeling nervous sometimes about how I will get a DS job or a high paying job in general after my MS but I can relax about that I think. Worst case scenario, I get a PhD or a MSc in machine learning and continue my education after my MSc while I'm working at whatever job I can get. So long as I don't stop working, I will become valuable to a company, and as I can continually become more and more valuable, I can eventaully get hired. Also, I might end up just starting my own company. Been thinking about what it would look like to start an AI grounded sustainability consultancy company once I graduate. Makes me think of that sustainability company that was on that Security and Sustainability Forum webinar I attended, might be worth reaching out to them and asking their opinion on getting into the scene and what its like. As companies take increasingly agressive moves towards becoming sustainable, being at the crossroads between sustainability and data driven AI will make me very valuable. Just gotta keep on going. Waking up early is like a superpower. Give you an extra 3 hours at least of productive time each day while trimming off 3 hours of non-productive time. Feels much better and like I'm able to move forward a lot easier. It's only 830AM and I've already done 2hrs of studying, exercised, showered, shaved, and blogged. Bodes very well for my continuing education and my ability to make the most out of the MSc ahead. Exciting times, I am very grateful to have the chance to do all this. 
+
+Tyler
